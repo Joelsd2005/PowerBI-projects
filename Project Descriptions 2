@@ -1,0 +1,22 @@
+# PowerBI-projects in more depth
+
+Food Apocalypse Analysis (project 1)
+This Power BI dashboard analyzes food products available at Target, Walmart, and Costco, providing insights into pricing, availability, and category distribution. The dashboard features a bar chart for comparing food categories across stores, a table displaying key details, slicers for dynamic filtering, and cards highlighting key performance indicators (KPIs) such as average price and total products. This analysis helps identify trends in product offerings and pricing strategies across major retailers.
+
+Video Game Sales Analysis (project 2)
+This interactive Power BI dashboard examines video game sales data, identifying trends across different platforms, genres, and regions. A bar chart highlights top-selling games, while a table provides a detailed breakdown of sales figures. Slicers allow users to filter data by region, platform, and year, and cards display key statistics such as total revenue and best-selling games. This analysis provides valuable insights into the gaming market and sales performance.
+
+Supermarket Sales Analysis (project 3)
+This Power BI report provides an in-depth look at supermarket sales performance across various locations. A gauge chart displays overall sales performance against targets, while bar charts highlight sales trends by product category. A map visualization helps identify geographic sales distribution. Cards provide key metrics such as total revenue, and slicers enable dynamic filtering by store location and product category. This analysis helps businesses understand sales patterns and optimize inventory.
+
+Car Sales Analysis (project 4)
+This dashboard analyzes car sales performance across different brands, models, and regions. A pie chart shows the market share of different brands, while a line graph visualizes sales trends over time. A bar chart provides insights into sales by model, and a map highlights regional performance. Slicers allow users to filter by car type, location, and time period, while cards display key KPIs like total units sold and average price. This analysis aids in understanding consumer preferences and market trends.
+
+Agent/Calls Analysis (pwc dashboard 1)
+This Power BI report examines agent performance and call center activity. A bar chart showcases the number of calls handled by each agent, while a line graph tracks call volume trends over time. Slicers enable filtering by agent, department, or call type, and cards display key metrics like average call duration and total calls handled. This analysis helps optimize workforce management and improve customer service efficiency.
+
+Churn Business Analysis (pwc dashboard 2)
+This Power BI dashboard focuses on customer churn, helping businesses understand why customers leave and how to improve retention. A bar chart visualizes churn rates across different customer segments, and cards highlight key figures such as total churned customers and average retention period. This analysis enables businesses to develop targeted strategies for reducing churn and increasing customer loyalty.
+
+Business Analysis (business dashboard)
+This Power BI report provides a comprehensive overview of business performance using key financial and operational metrics. A line and clustered column chart compares budget and forecast, while a gauge with a target line measures performance against goals. Additional bar charts and line graphs provide deeper insights into trends, and slicers allow for interactive data filtering. This analysis supports decision-making by identifying growth opportunities and operational inefficiencies.
